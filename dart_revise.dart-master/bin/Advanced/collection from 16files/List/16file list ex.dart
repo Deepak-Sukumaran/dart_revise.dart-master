@@ -5,7 +5,7 @@ void main() {
   List l2 = [12, 13, 14, 15, "hello", 16, 17];
   List<dynamic> l3 = [1, 2, 3, 4, 5, "hello", 33.45];
 
-  ///2, List,empty
+  ///2, List.empty
   List l4 = List.empty(growable: true);
   //l4.add(1);
   l4.addAll([1, 2, 3, 4, 5, 6, 7]);

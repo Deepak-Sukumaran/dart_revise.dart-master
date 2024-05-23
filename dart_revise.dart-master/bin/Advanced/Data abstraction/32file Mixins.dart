@@ -33,6 +33,7 @@ class C with A, B {
     print("occasion = $occasion");
   }
 
+
 }
 
 void main() {

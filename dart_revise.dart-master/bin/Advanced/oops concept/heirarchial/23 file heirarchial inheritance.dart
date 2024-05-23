@@ -25,7 +25,6 @@ class toyota extends car{
 
   }
   String edition = "limited edition";
-
 }
 void main(){
   suzuki obj1 =suzuki();

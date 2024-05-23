@@ -5,7 +5,7 @@ class abc{
 
  static void show(){
      String? location;
-    print("iam working in $company located at ${location = "katakana"}");
+    print("iam working in $company located at ${location = "kakkanad"}");
   }
   // static method can not access instance variable, can only access static and local variables
 }
